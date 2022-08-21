@@ -1,0 +1,40 @@
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.social{
+    margin-right: 0.2em;
+}
+.socil img{
+    margin: 0.2em;
+}
+#logoap{
+    width: 150px;
+}
+.social button{
+    margin: 0.2em;
+}
+.btn{
+    border-width: medium;
+}
+img{
+    width: 49px;
+}
+/*pantalla movil*/
+@media (max-width: 575px){
+.conteiner{
+    flex-direction: column;
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.social img{
+    margin: 0.2em;
+}
+.social button{
+    margin: 0.2em;
+}
+}

@@ -24,7 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "C:/Users/Vanesa/Desktop/FrontEnt-proyecto/FrontEnd-proyecto/node_modules/bootstrap/dist/css/bootstrap.css"
+              "FrontEnd-proyecto/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": ["FrontEnd-proyecto/node_modules/bootstrap/dist/js/bootstrap.js"]
           },

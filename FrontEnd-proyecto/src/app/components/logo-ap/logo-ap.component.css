@@ -6,7 +6,7 @@
 .social{
     margin-right: 0.2em;
 }
-.socil img{
+.social img{
     margin: 0.2em;
 }
 #logoap{
@@ -21,7 +21,9 @@
 img{
     width: 49px;
 }
+
 /*pantalla movil*/
+
 @media (max-width: 575px){
 .conteiner{
     flex-direction: column;

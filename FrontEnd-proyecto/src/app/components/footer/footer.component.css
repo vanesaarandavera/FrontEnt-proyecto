@@ -1,0 +1,9 @@
+.row{
+    background-color: rgb(164, 122, 175) ;
+}
+footer{
+    color: blanchedalmond;
+    font-size: 14px;
+    text-align: center;
+    box-shadow: 2px -2px 5px #999 ;
+}
